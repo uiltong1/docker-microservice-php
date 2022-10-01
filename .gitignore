@@ -1,0 +1,5 @@
+html/*
+!html/index.php
+
+.docker/mysql/*
+.docker/redis/*
