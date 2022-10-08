@@ -3,3 +3,4 @@ html/*
 
 .docker/mysql/*
 .docker/redis/*
+.docker/localstack/*
